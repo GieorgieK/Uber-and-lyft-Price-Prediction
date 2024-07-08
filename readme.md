@@ -1,0 +1,1 @@
+This project implements a regression model using Linear Regression to predict travel prices for Uber and Lyft in New York City. The developed model achieved an accuracy rate of 93%, demonstrating its capability to forecast travel costs with high reliability.
