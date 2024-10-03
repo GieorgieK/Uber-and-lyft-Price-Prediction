@@ -8,7 +8,14 @@ This project involves predicting ride prices for Uber and Lyft in New York using
 
 The objective of this project is to understand the concept of regression using Linear Regression, prepare data for use in the Linear Regression model, and implement Linear Regression to make predictions. This project encompasses understanding the basic theory of Linear Regression, data collection and cleaning, initial exploration and analysis of the data, and performing feature engineering to improve model performance. Additionally, the project aims to build, train, and test the model, as well as assess its accuracy and performance. The results of the model will be interpreted comprehensively.
 
-## Model Definition
+## Tools
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />](https://seaborn.pydata.org/)
+[<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
+[<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
+[<img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />](https://scikit-learn.org/)
+
+## Model Training
 
 The two models chosen for comparison are Linear Regression and Ridge Regression.
 
